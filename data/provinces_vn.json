@@ -1,0 +1,307 @@
+[
+  {
+    "province_name": "An Giang province",
+    "latitude": 10.514902499466372,
+    "longitude": 105.11317919999999
+  },
+  {
+    "province_name": "Bac Giang province",
+    "latitude": 21.309286300408615,
+    "longitude": 106.61651279999998
+  },
+  {
+    "province_name": "Bắc Kạn province",
+    "latitude": 22.257170100404753,
+    "longitude": 105.85889579999998
+  },
+  {
+    "province_name": "Bac Lieu",
+    "latitude": 9.347731699411282,
+    "longitude": 105.50970639999998
+  },
+  {
+    "province_name": "Bac Ninh Province",
+    "latitude": 21.121205100406353,
+    "longitude": 106.0880245
+  },
+  {
+    "province_name": "Ba Ria-Vung Tau Province",
+    "latitude": 10.581979799470517,
+    "longitude": 107.2899841
+  },
+  {
+    "province_name": "Ben Tre province",
+    "latitude": 10.109363699443508,
+    "longitude": 106.55256699999998
+  },
+  {
+    "province_name": "Ben Tre Province",
+    "latitude": 10.124525399444291,
+    "longitude": 106.46904469999998
+  },
+  {
+    "province_name": "Binh Dinh province",
+    "latitude": 14.152520099807738,
+    "longitude": 108.92396179999999
+  },
+  {
+    "province_name": "Binh Duong province",
+    "latitude": 11.224068699515232,
+    "longitude": 106.66746809999998
+  },
+  {
+    "province_name": "Binh Duong Province",
+    "latitude": 11.19698289951317,
+    "longitude": 106.70805269999998
+  },
+  {
+    "province_name": "Binh Phuoc province",
+    "latitude": 11.679021299552062,
+    "longitude": 106.797558
+  },
+  {
+    "province_name": "Binh Phuoc Province",
+    "latitude": 11.73324839955672,
+    "longitude": 106.906249
+  },
+  {
+    "province_name": "Binh Thuan province",
+    "latitude": 11.101461999506014,
+    "longitude": 107.9415938
+  },
+  {
+    "province_name": "Ca Mau",
+    "latitude": 9.087542899403607,
+    "longitude": 105.03204699999999
+  },
+  {
+    "province_name": "Can Tho",
+    "latitude": 10.090658899442543,
+    "longitude": 105.5799367
+  },
+  {
+    "province_name": "Cao Bằng",
+    "latitude": 22.77308670039197,
+    "longitude": 106.0017225
+  },
+  {
+    "province_name": "Dak Lak province",
+    "latitude": 12.839939199662458,
+    "longitude": 108.22849469999998
+  },
+  {
+    "province_name": "Dak Nong province",
+    "latitude": 12.128868699592262,
+    "longitude": 107.58742609999999
+  },
+  {
+    "province_name": "Dien Bien province",
+    "latitude": 21.721012600410084,
+    "longitude": 103.04108189999998
+  },
+  {
+    "province_name": "Dong Nai Province",
+    "latitude": 11.006321199499077,
+    "longitude": 107.19218069999998
+  },
+  {
+    "province_name": "Dong Tháp",
+    "latitude": 10.626665899473338,
+    "longitude": 105.63162180000002
+  },
+  {
+    "province_name": "Gia Dinh",
+    "latitude": 10.803409899484928,
+    "longitude": 106.6961805
+  },
+  {
+    "province_name": "Gia Lai province",
+    "latitude": 13.796406699766838,
+    "longitude": 108.2608263
+  },
+  {
+    "province_name": "Ha Giang province",
+    "latitude": 22.6068909003969,
+    "longitude": 104.79948
+  },
+  {
+    "province_name": "Hai Duong province",
+    "latitude": 20.944368100403302,
+    "longitude": 106.3780373
+  },
+  {
+    "province_name": "Ha Nam province",
+    "latitude": 20.526908800392647,
+    "longitude": 105.9543527
+  },
+  {
+    "province_name": "Ha Tinh province",
+    "latitude": 18.28790590025916,
+    "longitude": 105.78427739999998
+  },
+  {
+    "province_name": "Hau Giang Province",
+    "latitude": 9.76331969942709,
+    "longitude": 105.6379524
+  },
+  {
+    "province_name": "Hoa Binh province",
+    "latitude": 20.66091770039659,
+    "longitude": 105.3924747
+  },
+  {
+    "province_name": "Hung Yen province",
+    "latitude": 20.81933690040061,
+    "longitude": 106.0314504
+  },
+  {
+    "province_name": "Khanh Hoa province",
+    "latitude": 12.196080299598565,
+    "longitude": 108.9950386
+  },
+  {
+    "province_name": "Kien Giang",
+    "latitude": 9.91139449943376,
+    "longitude": 105.2533879
+  },
+  {
+    "province_name": "Kon Tum province",
+    "latitude": 14.69953719987179,
+    "longitude": 107.9323831
+  },
+  {
+    "province_name": "Lai Chau province",
+    "latitude": 22.304872800403885,
+    "longitude": 102.96288619999999
+  },
+  {
+    "province_name": "Lam Dong province",
+    "latitude": 11.693772499553324,
+    "longitude": 108.15275399999999
+  },
+  {
+    "province_name": "Lang Son province",
+    "latitude": 21.85670120040951,
+    "longitude": 106.4424353
+  },
+  {
+    "province_name": "Lao Cai province",
+    "latitude": 22.296765700404045,
+    "longitude": 104.0566164
+  },
+  {
+    "province_name": "Nam Dinh province",
+    "latitude": 20.271224100383748,
+    "longitude": 106.1629895
+  },
+  {
+    "province_name": "Nghe An province",
+    "latitude": 19.373886800338976,
+    "longitude": 104.9233469
+  },
+  {
+    "province_name": "Ninh Binh province",
+    "latitude": 20.184483200380335,
+    "longitude": 105.9802529
+  },
+  {
+    "province_name": "Ninh Thuan province",
+    "latitude": 11.74497149955773,
+    "longitude": 108.8983408
+  },
+  {
+    "province_name": "Phu Tho province",
+    "latitude": 21.32122400040873,
+    "longitude": 105.1267207
+  },
+  {
+    "province_name": "Phu Yen province",
+    "latitude": 13.21265519970199,
+    "longitude": 109.0834225
+  },
+  {
+    "province_name": "Quang Binh province",
+    "latitude": 17.54626580019112,
+    "longitude": 106.2576229
+  },
+  {
+    "province_name": "Quang Nam Province",
+    "latitude": 15.597334399977697,
+    "longitude": 107.9758089
+  },
+  {
+    "province_name": "Quang Ngai province",
+    "latitude": 14.963534899902973,
+    "longitude": 108.6642632
+  },
+  {
+    "province_name": "Quang Ninh province",
+    "latitude": 21.171804600407057,
+    "longitude": 107.2012742
+  },
+  {
+    "province_name": "Quang Tri province",
+    "latitude": 16.858135200120294,
+    "longitude": 106.8588935
+  },
+  {
+    "province_name": "Sa Dec",
+    "latitude": 10.316291099454693,
+    "longitude": 105.6988291
+  },
+  {
+    "province_name": "Soc Trang",
+    "latitude": 9.586778899419848,
+    "longitude": 105.9468456
+  },
+  {
+    "province_name": "Son La province",
+    "latitude": 21.15085020040677,
+    "longitude": 103.88842940000002
+  },
+  {
+    "province_name": "Tay Ninh province",
+    "latitude": 11.404628999529363,
+    "longitude": 106.00339089999999
+  },
+  {
+    "province_name": "Thai Binh province",
+    "latitude": 20.52968320039273,
+    "longitude": 106.3876068
+  },
+  {
+    "province_name": "Thai Nguyen",
+    "latitude": 21.649850200410178,
+    "longitude": 105.8351394
+  },
+  {
+    "province_name": "Thanh Hoa province",
+    "latitude": 20.10716940037712,
+    "longitude": 105.2124457
+  },
+  {
+    "province_name": "Thua Thien–Hue province",
+    "latitude": 16.337537400062946,
+    "longitude": 107.55637079999998
+  },
+  {
+    "province_name": "Tra Vinh",
+    "latitude": 9.770460599427402,
+    "longitude": 106.35638059999998
+  },
+  {
+    "province_name": "Tuyen Quang province",
+    "latitude": 22.125675500406818,
+    "longitude": 105.2089725
+  },
+  {
+    "province_name": "Vinh Phuc Province",
+    "latitude": 21.31135600040864,
+    "longitude": 105.60329439999998
+  },
+  {
+    "province_name": "Yen Bai province",
+    "latitude": 21.8013688004098,
+    "longitude": 104.51480659999999
+  }
+]
